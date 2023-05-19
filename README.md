@@ -1,4 +1,4 @@
-# Grocery-Store-Management-System
+# Grocery Store Management System
 
     This is a fully functional Grocery Store Website.
     
